@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit ad_deployment.py
+web: sh setup.sh && streamlit app.py
