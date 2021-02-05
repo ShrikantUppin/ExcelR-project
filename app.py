@@ -71,7 +71,7 @@ def main():
     
     if page =="How to use this dashboard":
             st.write("Let's watch this video..!")
-            #st.video('https://youtu.be/embed/FH6i5jQS8rM')
+            st.video('https://youtu.be/81Inxb4dzqc')
     
     elif page =="Loaded file preview":
         if file is not None:
