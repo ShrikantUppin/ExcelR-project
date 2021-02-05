@@ -29,7 +29,7 @@ pd.set_option('display.max_columns', 2000)
 pd.set_option('display.max_rows', 500)
 
 
-model = load('model.joblib')
+model = load('model_rf_upsampled.joblib')
 
 # page view setting...
 
