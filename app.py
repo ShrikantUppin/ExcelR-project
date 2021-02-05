@@ -227,7 +227,7 @@ st.sidebar.info('''The probelm statement given for this project was, predict whe
              This model is giving best F1-Score as 83.34% to 83.40% with high accuracy.''')
              
 st.sidebar.title('GitHub-Source Code:')
-link = '[Click here for source code..!](https://github.com/ShrikantUppin/Logistic-Regression-Complete-Notebook)'
+link = '[Click here for source code..!](https://github.com/ShrikantUppin/ExcelR-project)'
 st.sidebar.markdown(link, unsafe_allow_html=True)
              
 
