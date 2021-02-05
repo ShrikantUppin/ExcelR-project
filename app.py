@@ -34,7 +34,7 @@ model = load('model.joblib')
 # page view setting...
 
 st.set_page_config(layout='wide',initial_sidebar_state='expanded')
-data_sample_view = load('data_sample_view.joblib')
+
 #______________________________________________________________________________
 # Page Heading...
 st.title("Hospital Insurance Claim Fraud Detection")
